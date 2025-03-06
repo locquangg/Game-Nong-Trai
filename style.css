@@ -1,8 +1,0 @@
-body {
-    margin: 0;
-    overflow: hidden;
-    background-color: #87CEEB; /* Màu trời */
-}
-canvas {
-    display: block;
-}
