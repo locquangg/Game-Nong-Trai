@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #282c34;
-    color: white;
+    margin: 0;
+    padding: 0;
+    background: url('background.png') no-repeat center center fixed;
+    background-size: cover;
 }
 #game {
     background: rgba(0, 0, 0, 0.8);
